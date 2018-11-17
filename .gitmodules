@@ -1,0 +1,3 @@
+[submodule "Library/CGLib"]
+	path = Library/CGLib
+	url = https://github.com/rpinz/CGLib
